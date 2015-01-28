@@ -1,4 +1,4 @@
-# git_demo
-==========
+git_demo
+========
 
 Une démo Git
