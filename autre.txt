@@ -1,1 +1,7 @@
 Ceci est un texte de qualité
+
+<<<<<<< HEAD
+avec autre chose depuis local
+=======
+avec une ligne de plus depuis github
+>>>>>>> 1a803d72664d1e9abac10170934082f7c9d66a66
