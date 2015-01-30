@@ -1,7 +1,9 @@
 Ceci est un texte de qualité
 
-<<<<<<< HEAD
+Ceci vient de la modif en local:
+HEAD
 avec autre chose depuis local
-=======
+Ceci vient de la modif faite sur le serveur github:
 avec une ligne de plus depuis github
->>>>>>> 1a803d72664d1e9abac10170934082f7c9d66a66
+Jusqu'ici:
+1a803d72664d1e9abac10170934082f7c9d66a66
